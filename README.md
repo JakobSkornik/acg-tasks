@@ -1,2 +1,3 @@
-# acg-tasks
+# ACG Homeworks
+
 Advanced Computer Graphics
